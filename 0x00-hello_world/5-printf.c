@@ -1,4 +1,4 @@
-#imclude < stdio.h >
+#include <stdio.h>
 /**
  * main - A program that print a line using the printf fimction
  * Return: 0 (Success)
